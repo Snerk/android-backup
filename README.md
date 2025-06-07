@@ -12,15 +12,15 @@ How it works
 
 ~/phone_backups/
 
-   ├-- OnePlus_OnePlus_8T_040b79b2/
+   ├-- [name of phone a]/
  
-   │ ├─ Internal shared storage/2025-06-06/…
+   │ ├─ Internal shared storage/[YYYY]-[MM]-[DD]/…
 
-   │ └─ SD Card/2025-06-06/…
+   │ └─ SD Card/[YYYY]-[MM]-[DD]/…
 
-   └── Pixel_7_ABCDEF012345/
+   └── [name of phone b]/
 
-         └─ Internal shared storage/2025-06-06/…
+         └─ Internal shared storage/[YYYY]-[MM]-[DD]/…
 
     Exclusions are identical to the previous answer, keeping the backup lean.
 
