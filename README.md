@@ -11,10 +11,15 @@ How it works
     Destination layout.
 
 ~/phone_backups/
+
    ├-- OnePlus_OnePlus_8T_040b79b2/
+ 
    │ ├─ Internal shared storage/2025-06-06/…
+
    │ └─ SD Card/2025-06-06/…
+
    └── Pixel_7_ABCDEF012345/
+
          └─ Internal shared storage/2025-06-06/…
 
     Exclusions are identical to the previous answer, keeping the backup lean.
